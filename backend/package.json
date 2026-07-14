@@ -1,0 +1,26 @@
+{
+  "name": "intro_to_backend",
+  "version": "1.0.0",
+  "description": "this project is for the tutorial of intro to backend",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledsweid2004-hash/intro_to_backend.git"
+  },
+  "keywords": [],
+  "author": "khaled",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khaledsweid2004-hash/intro_to_backend/issues"
+  },
+  "homepage": "https://github.com/khaledsweid2004-hash/intro_to_backend#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
